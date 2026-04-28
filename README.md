@@ -1,5 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently unemployed <br>👯 I’m looking to collaborate on bash script,docker,cyber security<br>🤝 I’m looking for help with same thing <br>🌱 I’m currently learning cybersecurity <br>💬 Ask me in the discord 6.fi.<br>⚡ Fun fact
+🔭 I’m currently unemployed <br>👯 I’m looking to collaborate on bash script,docker,cyber security<br>🤝 I’m looking for help with same thing <br>🌱 I’m currently learning cybersecurity <br>💬 Ask me in the discord michael_code1
+<br>⚡ Fun fact
 
 
 ## 🌐 Socials:
